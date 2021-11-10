@@ -24,3 +24,7 @@ Abschnitt 5: Timon, Tobias
 **Termin:** 
 
 Montag 18 Oktober 17 Uhr
+
+ToDo List:
+- überlegen wie wir die Datenbank organisieren
+- 
