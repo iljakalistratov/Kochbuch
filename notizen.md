@@ -12,6 +12,7 @@ https://app.mural.co/t/egruen2105/m/egruen2105/1632295747913/1e617e58d978b276e40
 https://onedrive.live.com/view.aspx?resid=3BED5FD44CDC5482!4456&ithint=file%2cdocx&authkey=!AG6Lc-hH2aYZbAM
 
 **WhiteBoard**
+
 https://app.whiteboard.microsoft.com/me/whiteboards/0b513ba5-d07d-46d9-9ded-5b2c3b54e1d0
 
 **Gruppeneinteilung:**
